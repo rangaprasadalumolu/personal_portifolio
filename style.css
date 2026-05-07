@@ -31,12 +31,12 @@ section h2 {
   border-left: 4px solid #007ACC;
 }
 #projects h3,
-#internships strong {
+#experience strong {
   color: #007ACC;
 }
 
 #projects ul li,
-#internships ul ul li {
+#experience ul ul li {
   margin-bottom: 8px;
   line-height: 1.6;
 }
